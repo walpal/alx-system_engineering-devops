@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -pnru *.html ../
+cp -ru *.html ../
