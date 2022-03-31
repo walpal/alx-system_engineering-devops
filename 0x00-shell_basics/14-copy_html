@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -anruv *.html ../
+cp -ruanv *.html ../
