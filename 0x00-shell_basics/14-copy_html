@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -aruv *.html ../
+cp -ruav *.html ../
