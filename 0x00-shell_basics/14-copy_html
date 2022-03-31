@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -inruv *.html ../
+cp -nruv *.html ../
